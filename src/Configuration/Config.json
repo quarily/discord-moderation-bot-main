@@ -1,0 +1,6 @@
+{
+    "Token": "DISCORD_BOT_TOKEN",
+    "Prefix": "!",
+    "DatabaseUrl": "MONGODB_CONNECTION_STRING",
+    "DatabaseName": "DATABASE_nAME"
+}
